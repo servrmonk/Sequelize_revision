@@ -1,0 +1,2 @@
+now for creating a instance by using build method not new method
+and than use save method for saving the data
