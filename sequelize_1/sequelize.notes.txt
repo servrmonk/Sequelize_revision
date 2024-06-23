@@ -1,0 +1,13 @@
+Node.js With Sequilize ORM
+(java : hibernate, js:mapping)
+
+Sequelize:sequelize is a promise based node.js ORM tool 
+
+Object Relational Mapping(ORM): is a technique to accessing a relational database from an object oriented language or technique that maps software to database tables
+we can also do without sequelize, with sequelize our data and api is secure and some extra security
+and provides functionality
+data is in the object from with setter and getter part
+
+models represent the table 
+
+using models:sequelize.define
